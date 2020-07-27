@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["index.html","c15d02fd9a221cf2381d403d2cb54738"],["manifest.json","3ddab6ba2176b201933b7f1105ee717b"],["node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js","e044a63e034bf10304dad73138b8c74b"],["src/app/vaadin-app.js","055cc9e3874ac0351fbed1fade0e7e79"],["src/routes/app-routing.js","30e6d4fc22ac20f06056bfe9458fcf39"],["src/views/404.js","39bd57fbf0c30f9ce8cf14a50dd4507f"],["src/views/content-list.js","281b0439490285ce67834350ee544862"],["src/views/sources-list.js","9b14529384e4038550928adee4fd8882"]];
+var precacheConfig = [["index.html","c15d02fd9a221cf2381d403d2cb54738"],["manifest.json","3ddab6ba2176b201933b7f1105ee717b"],["node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js","e044a63e034bf10304dad73138b8c74b"],["src/app/vaadin-app.js","581117f6bbec772486c4bc8b2be75e02"],["src/routes/app-routing.js","30e6d4fc22ac20f06056bfe9458fcf39"],["src/views/404.js","92e34e125fdad54d9ccede87a13e3b42"],["src/views/content-list.js","bbaca45b3eaa231bc59ec45db56c1580"],["src/views/sources-list.js","33c0589f1aeb964d60ce3b3d6edfd1a2"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
