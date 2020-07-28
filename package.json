@@ -41,6 +41,7 @@
   },
   "scripts": {
     "postinstall": "npm dedupe",
+    "build:prod": "polymer build --preset es5-bundled && rm -rf ../prototyp/* && cp -r build/es5-bundled/* ../prototyp/",
     "lint": "polymer lint --rules polymer-3",
     "test": "polymer test --npm"
   }
